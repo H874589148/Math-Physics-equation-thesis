@@ -17,3 +17,11 @@ MATLAB是我们学习过程中的常用工具之一，我们必须要熟练它�
 长为l的均匀弹性细杆两端被支撑，初始时刻杆的横向位移为零，横向速度为 v_0 [sin π/l x+9sin 3π/l x]，试求在此条件下的横振动规律。
 
 ### 2.2 写出定解问题
+
+## 运行截图
+
+<img src="https://github.com/H874589148/Math-Physics-equation-thesis/blob/master/stick-screenshot/0.2.png" width="576" height="491" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/H874589148/Math-Physics-equation-thesis/blob/master/stick-screenshot/0.4.png" width="576" height="491" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/H874589148/Math-Physics-equation-thesis/blob/master/stick-screenshot/0.6.png" width="576" height="491" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/H874589148/Math-Physics-equation-thesis/blob/master/stick-screenshot/0.8.png" width="576" height="491" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/H874589148/Math-Physics-equation-thesis/blob/master/stick-screenshot/1.png" width="576" height="491" alt="图片加载失败时，显示这段字"/>
