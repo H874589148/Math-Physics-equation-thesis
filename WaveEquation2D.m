@@ -40,6 +40,7 @@ u=u_n;   % next step becomes present state
 
 u(size/2,size/2)=exp(-((k-t0)/tp)^2);  % gaussian source position selected at the centre of the matrix
 %u(size/2,size/2)=sin(2*pi*0.03*i);
+%axis slide;
 imagesc(u)
 A(k)=getframe;
 end
